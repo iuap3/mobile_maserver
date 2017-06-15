@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [产品介绍](articles/provotal/1-/gaishu.md)
   * [产品介绍](articles/provotal/1-/chanpin.md)
+  * [产品优势](articles/provotal/1-/ad.md)
   * [名词功能](articles/provotal/1-/mingci.md)
 * [管理员登录](articles/provotal/2-/guanliyuan.md)
 * [移动系统管理](articles/provotal/3-/yidong.md)
