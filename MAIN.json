@@ -1,0 +1,30 @@
+{ 
+ "title": "移动应用服务器", 
+ "desc": "系统管理功能提供管理安装在MA Server上的移动应用服务器包的功能，以及设置允许哪些移动设备可以访
+
+问MA Server。移动应用的服务器以及配置管理功能包括设备信息管理、MA日志、应用平台服务配置、许可管理和许可
+
+显示等功能。", 
+ "list": [ 
+ { 
+ "title": "产品功能", 
+ "link": "#/md-build/mobile_maserver/articles/provotal/1-/mingci.md", 
+ "desc": "概要介绍了了产品的具体功能" 
+ }, 
+ { 
+ "title": "管理员登录", 
+ "link": "#/md-build/mobile_maserver/articles/provotal/2-/guanliyuan.md", 
+ "desc": "讲解了管理员登录的具体内容" 
+ }, 
+ { 
+ "title": "管理员控制台", 
+ "link": "#/md-build/mobile_maserver/articles/provotal/3-/kongzhi.md", 
+ "desc": "讲解了管理员控制台的具体内容" 
+ }, 
+ { 
+ "title": "移动应用服务器端管理相关功能", 
+ "link": "#/md-build/mobile_maserver/articles/provotal/3-/fuwu.md", 
+ "desc": "讲解移动应用服务器端管理的具体功能" 
+ } 
+ ] 
+ } 
